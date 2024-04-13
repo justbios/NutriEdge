@@ -1,0 +1,16 @@
+current directory: /Users/sergejkaragezan/Documents/NutriEdge/vendor/bundle/ruby/2.6.0/gems/json-2.7.2/ext/json
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/sergejkaragezan/Documents/NutriEdge/vendor/bundle/ruby/2.6.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240409-7652-bf81a8 sitelibdir\=./.gem.20240409-7652-bf81a8 clean
+
+current directory: /Users/sergejkaragezan/Documents/NutriEdge/vendor/bundle/ruby/2.6.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240409-7652-bf81a8 sitelibdir\=./.gem.20240409-7652-bf81a8
+make: Nothing to be done for `all'.
+
+current directory: /Users/sergejkaragezan/Documents/NutriEdge/vendor/bundle/ruby/2.6.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240409-7652-bf81a8 sitelibdir\=./.gem.20240409-7652-bf81a8 install
+
+current directory: /Users/sergejkaragezan/Documents/NutriEdge/vendor/bundle/ruby/2.6.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240409-7652-bf81a8 sitelibdir\=./.gem.20240409-7652-bf81a8 clean
